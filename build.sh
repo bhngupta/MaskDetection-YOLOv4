@@ -22,7 +22,7 @@ cd darknet
 
 ### Building cfg files 
 echo '[Info] (5/6)- Building cfg files'
-python3 yolov4_setup.py
+python3 scripts/yolov4_setup.py
 
 echo '[Info] (6/6)- Finishing up build'
 echo 'Time to train your model'
