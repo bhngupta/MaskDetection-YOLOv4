@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jul 16 21:34:58 2020
-
-@author: Quang Nguyen
-"""
-
 import os
 import shutil
 from yolov4_config import *
