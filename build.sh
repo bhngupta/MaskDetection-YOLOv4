@@ -6,11 +6,11 @@
 
 ### Copy Custom Dataset into darknet/data 
 echo '[Info] (1/6)- Copying data files'
-cp -R darknet_files/data/ darknet/data
+cp -R darknet_files/data/ darknet/
 
 ### Copy cfg into darknet/cfg 
 echo '[Info] (2/6)- Copying cfg files'
-cp -R darknet_files/cfg/ darknet/cfg
+cp -R darknet_files/cfg/ darknet/
 
 ### Copy scripts into darknet 
 echo '[Info] (3/6)- Copying scripts files'
