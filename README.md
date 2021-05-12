@@ -11,7 +11,7 @@
 ### Dataset Prepration
 
 - Download the starter dataset in JSON format from https://www.kaggle.com/andrewmvd/face-mask-detection
-- XML preprocessing to yield the dataset in YOLO format [notebook](https://github.com/Bhanu-mbvg/MaskDetection-YOLOv4/) TBC 
+- XML preprocess to yield the dataset in YOLO TXT format
 - YOLO dataset can be found here [folder](https://github.com/Bhanu-mbvg/MaskDetection-YOLOv4/tree/main/darknet_files/data/images)
 - Copy custom dataset and config files in [darknet_files folder](https://github.com/Bhanu-mbvg/MaskDetection-YOLOv4/tree/main/darknet_files)
 
