@@ -1,4 +1,4 @@
-# Title TBC
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=gradient&text=Mask%20Detection&fontSize=45)
 
 <div align="center">
   <h1>Mask detection and recognition using YOLOv4 Darkent</h1>
@@ -7,6 +7,7 @@
   <img src="https://media.giphy.com/media/SP5G3ZrNtNVfSBNiaK/giphy.gif">
 </p>
 
+* * *
 ### Dataset Prepration
 
 - Download the starter dataset in JSON format from https://www.kaggle.com/andrewmvd/face-mask-detection
@@ -36,11 +37,17 @@ bash build.sh
 ./darknet detector train <.data> <.cfg> <.weights> -dont_show -map
 ```
 
+* * *
 ### Model Checkpoints
-1 Image - Gdrive
-
-### Accuracy
-1 Image - Graph
+<p align="left">  
+  <img width="500px" height="200px"  src="https://github.com/Bhanu-mbvg/MaskDetection-YOLOv4/blob/main/src/weights1.png">
+</p>
 
 ### Detection 
-1 Image - Clinic
+<p align="center">  
+  <img width="400px" height="400px"  src="https://github.com/Bhanu-mbvg/MaskDetection-YOLOv4/blob/main/src/stats1.png">
+  <img width="400px" height="400px" src="https://github.com/Bhanu-mbvg/MaskDetection-YOLOv4/blob/main/src/predic1.png">
+</p>
+
+### Contributors 
+Bhanu Gupta - [LinkedIn](https://www.linkedin.com/in/bvg/)
